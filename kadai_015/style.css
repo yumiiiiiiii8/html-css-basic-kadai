@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.blue {
+  color: skyblue;
+}
+.pink {
+  color: rgb(255, 192, 203);
+}
+#my-profile .letter-m {
+  color: skyblue;
+}
+#my-profile .letter-p {
+  color: rgb(255, 192, 203);
+}
+.heading-pink {
+  color: rgb(255, 192, 203);
+}
+.heading-skyblue {
+  color: skyblue;
+}
+
+.google-fonts {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.decoration {
+  font-size: 20px;
+  line-height: 4.5;
+}
+.bold {
+  font-weight: bold;
+}
+h1 {
+  font-size: 2rem;
+  font-family: "Josefin Sans", sans-serif;
+  border-bottom: 3px solid rgb(115, 115, 114);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  letter-spacing: 1.2em;
+}
+#basic > p {
+  font-weight: bold;
+}
+p {
+  font-weight: normal;
+}
